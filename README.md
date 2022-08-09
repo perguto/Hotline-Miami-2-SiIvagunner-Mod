@@ -2,6 +2,8 @@
 
 Enjoy Hotline Miami with _all_ the high-quality SiIvagunner and Timmy Turner's Grand Dad rips!
 
+![](cover.png)
+
 ## How to Use
 
 1. [Download the newest release](https://github.com/perguto/Hotline-Miami-2-SiIvagunner-Mod/releases/download/v1/hotline_miami_2_siivagunner_mod_v1.zip) and unzip it.
